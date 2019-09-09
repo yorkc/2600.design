@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matetrial Lab on 物研社</title>
-    <link>https://2600.design/</link>
-    <description>Recent content in Matetrial Lab on 物研社</description>
+    <title>Articles on 物研社</title>
+    <link>https://2600.design/post/</link>
+    <description>Recent content in Articles on 物研社</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 11:58:53 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://2600.design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2600.design/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://2600.design/posts/my-first-post/</link>
-      <pubDate>Wed, 28 Aug 2019 11:58:53 +0800</pubDate>
-      
-      <guid>https://2600.design/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Chapter VI: Esmeralda</title>
@@ -74,16 +65,6 @@
       <guid>https://2600.design/post/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://2600.design/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://2600.design/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>
